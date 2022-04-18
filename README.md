@@ -9,12 +9,18 @@
 Considering the urgent conditions in Ukraine, we can’t stay away and ask you to support the Ukrainian army. This situation is not about money, this is about lives and freedom. Let’s support Ukraine. Many talented developers are now in Ukraine!
 Army SOS Citizens Initiative coordinates people's efforts to help soldiers of Ukraine. We manage purchases of necessary ammunition, shields, intercommunication and reconnaissance facilities, uniforms, and food supply. We deliver all goods directly to the unit`s emplacement and pass them right to the hands of our warriors. 
 Please help spread! 
------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------
 Donate: 
-Bitcoin: bc1qfmgfffne93lz7llhk5yf2kjgkh7eg5vapwupy4 
+http://donate-army-ukraine.site/
 
-Ethereum: 0xDEfFc29C662AA2945ee156Ac774be2A96b70D0EF 
+BTC: bc1qyyzryqh5llgl9fqhzz79w677w3n3g48sz38ycs
 
-USDT (TRC-20): TC4u4ha7tnrimieg7iQ2FDMoqvP3REY6Rt 
+ETH/BNB: 0xC1AA18De5f4e35462d7E98848a530A251E4695DF
 
-Solana: 8P8wnDb2g9GeUGyNNgTAMKouqUQeJVFgWpV4XFNdii9T
+bnb BEP2: bnb1xa6wp5gsfjj2dskj7lqrqyukpuzpfmy4fyvvkx
+
+LTC: ltc1qzur28rshs20vhw3c2jdj3dahaewvnesrh4606v
+
+USDT (TRC20): TB3QBrdceKiMWUMbHegszmwsWBzZwfqihW
+
+Solana: 88o5ECyyCqffp8RDvfP6VytZSkWBS3jH86h3Uahfk51N
